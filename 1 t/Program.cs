@@ -12,5 +12,5 @@ while(i < b)
    result = result*a;
    i++;
 }
-Console.WriteLine(result);
+Console.WriteLine($"Число А, возведенное в степень В равно: {result}");
 // Console.WriteLine(Math.Pow(a, b));
